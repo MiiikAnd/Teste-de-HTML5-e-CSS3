@@ -1,5 +1,5 @@
 body {
-    background:rgb(238, 243, 189);
+    background:rgb(255, 255, 255);
     margin-left: 100px;
 }
 
@@ -10,6 +10,7 @@ header{
     font-family: fantasy;
 
 }
+
 
 button{
     color: blueviolet;
@@ -30,3 +31,9 @@ button{
     font-weight: 100;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+div{
+    margin-bottom: 150px;
+    font-size: 50px;
+    color: purple;
+    font-family: fantasy;}
