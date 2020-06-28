@@ -1,24 +1,15 @@
 body {
-    background:rgb(255, 255, 255);
-    margin-left: 100px;
+    background:rgb(255, 255, 200);
 }
 
 header{
-    margin-bottom: 150px;
-    font-size: 50px;
     color: aquamarine;
     font-family: fantasy;
 
 }
 
-
-button{
-    color: blueviolet;
-    background-color: coral;
-}
-
 .loguinho {
-    width: 200px;
+    width: 100px;
 }
 
 .logao {
@@ -33,7 +24,11 @@ button{
 }
 
 div{
-    margin-bottom: 150px;
-    font-size: 50px;
     color: purple;
-    font-family: fantasy;}
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.btn-warning{
+    background-color: yellow;
+}
