@@ -2,25 +2,12 @@ body {
     background:rgb(255, 255, 200);
 }
 
-header{
-    color: aquamarine;
-    font-family: fantasy;
-
-}
-
 .loguinho {
     width: 100px;
 }
 
 .logao {
     width: 550px;
-}
-
-.A {
-    color: crimson;
-    font-size: 40px;
-    font-weight: 100;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 div{
@@ -31,4 +18,13 @@ div{
 
 .btn-warning{
     background-color: yellow;
+}
+
+.form-signin{
+    color: tomato;
+    font-size: 100;
+}
+
+.button1{
+    margin-right: 5px;
 }
